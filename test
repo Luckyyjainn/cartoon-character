@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>test page</title>
+    <body>
+    <h1>Hey. im a big heading </h1>
+    <p>this a <b>para</b> element </p>
+    <a href="https://google.com" target="_blank" title="click it">this is a link </a>
+    <p>my name is <br>lucky</p>
+    <img src="https://www.bing.com/images/search?view=detailV2&ccid=U0SfqHcC&id=C06EBA7B9EE8E12CF45C4849F4A15F4920369A97&thid=OIP.U0SfqHcCr4A3TEW4cIDGOQHaEI&mediaurl=https%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f08%2fNature-wallpapers-Full-HD-backgroud.jpg&exph=2236&expw=4000&q=download+images&simid=608031782028325955&FORM=IRPRST&ck=F79A9A1DBCA10E41534F44E8764FDBCD&selectedIndex=0&itb=0">
+    </body>
+</html>
